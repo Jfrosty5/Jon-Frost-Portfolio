@@ -1,5 +1,7 @@
 # Jon-Frost-Portfolio
-Showcasing personal projects alongside studies.
+Showcasing personal projects.
 
-## Power BI dashboard
+## Project List
+* Power BI dashbaord
+* 
 
